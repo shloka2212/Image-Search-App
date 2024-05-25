@@ -1,4 +1,5 @@
-const accessKey = "kF9gbcYHPQaEcM3Aa1V0bOV6_Rbbuj9bGmkQ4MSwNJw";
+//const accessKey = "kF9gbcYHPQaEcM3Aa1V0bOV6_Rbbuj9bGmkQ4MSwNJw";
+const accessKey = "your-unsplash-api-key";
 
 const formEl = document.querySelector("form");
 const inputEl = document.getElementById("search-input");
